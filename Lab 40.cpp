@@ -1,7 +1,7 @@
 //File Name: Lab 40
 //Author: Eng. Hana Hesham
 //Version: 1
-//purpose: program in C++ to count the frequency of each element of an array.
+//purpose: program in C++ to find the sum of all elements of the array
 //Date: 8/5
 
 
